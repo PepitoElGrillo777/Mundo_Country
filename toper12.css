@@ -1,0 +1,39 @@
+*::after,
+*::before,
+.fondo_toper{ 
+    padding: 100px;
+    background-image: url("fondo_toper1.png");
+    background-size: 100%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    max-width: 1200px;
+    margin: 0 auto;
+    font-family: sans-serif;
+    color: #ffffff;
+}
+img {
+    max-width: 100%;
+}
+.countainer_item {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.item {
+    border-radius: 10px;
+}
+
+.info_product {
+    padding: 12px 30px
+}
+
+.item ing {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}

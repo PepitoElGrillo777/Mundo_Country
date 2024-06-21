@@ -1,0 +1,8 @@
+*::after,
+*::before,
+.fondo_toper{ 
+    background-image: url("qr.png");
+    background-size: 100%;
+    padding: 200px 200px 500px 200px;
+}
+

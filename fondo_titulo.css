@@ -1,0 +1,27 @@
+.fondo { 
+    padding: 20px;
+    background-image: url("fondo_principal.png");
+    background-size: 100%;
+}
+.box {
+    padding-right: 50px;
+    width: 50px;
+    margin: 50px;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+span {
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-weight: bold;
+    }
+    a {
+        font-size: 30px;
+    }
+p {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
